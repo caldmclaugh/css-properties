@@ -1,0 +1,94 @@
+body {
+  font-size: 16px;
+  line-height: 20px;
+  background-color: #ffffff;
+  color: rgba(0,0,0,5)
+}
+
+nav {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 48px;
+  line-height: 40px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 30px;
+  padding: 10px 20px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 20px;
+  padding: 10px 20px;
+}
+
+figure {
+  font-size: 12px;
+  padding: 10px 20px;
+}
+
+nav {
+  background-color: rgba(0,0,0,.5);
+  float: left;
+  position: fixed;
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color:#0070BC;
+  } /* mouse over */
+
+.logo {
+  margin: 20px;
+  width: 100px;
+}
+
+.large-pic {
+  width: 100%;
+}
+
+.medium-pic {
+  width: 70%;
+}
+
+.left, .right {
+  float: left;
+  width: 50%;
+}
+
+.right {
+  float: right;
+}
+
+.author {font-size: 18px;
+}
+
+ul {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  float: right;
+  padding: 30px;
+}
+
+article {
+  padding-top: 100px;
+}
+
+.container {
+  margin: 0 auto;
+  width: 50%;
+}
